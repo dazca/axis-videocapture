@@ -1,5 +1,6 @@
 # Others
 ignore
+.env
 # VS Code
 *.vscode
 
@@ -107,7 +108,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+*.env
 .venv
 env/
 venv/
